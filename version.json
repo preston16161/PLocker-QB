@@ -1,4 +1,4 @@
 {
-  "version": "1.0.1",
-  "changes": "Add modify command"
+  "version": "1.0.2",
+  "changes": "Implement a fingerprint recognition system"
 }
