@@ -1,4 +1,4 @@
 {
-  "version": "1.0.2",
-  "changes": "Implement a fingerprint recognition system"
+  "version": "1.0.3",
+  "changes": "Update the configuration to allow users to create a locker without being required to set a code or use a fingerprint"
 }
