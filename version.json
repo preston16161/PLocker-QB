@@ -1,4 +1,4 @@
 {
-  "version": "1.0.3",
-  "changes": "Update the configuration to allow users to create a locker without being required to set a code or use a fingerprint"
+  "version": "1.0.4",
+  "changes": "Added mysql-async compatibility and the ability to modify ESX/QB script functions without affecting the main server-side code."
 }
